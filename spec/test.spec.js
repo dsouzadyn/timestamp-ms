@@ -1,14 +1,11 @@
 'use strict'
-
-const chai = require('chai')
 const expect = require('chai').expect
-
 const service = require('../server.js')
 
 
 
 describe('API endpoint /api/timestamp', function () {
-  this.timeout(1000)
+  
 
   // Get timestamp for ISO Date
   it('should return valid timestamps for the ISO date', function () {
