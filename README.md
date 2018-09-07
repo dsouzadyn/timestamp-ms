@@ -1,4 +1,7 @@
 # timestamp-ms
+
+[![Build Status](https://travis-ci.org/dsouzadyn/timestamp-ms.svg?branch=master)](https://travis-ci.org/dsouzadyn/timestamp-ms)
+
 A timestamp microservice which takes a valid date or javascript timestamp and returns the unix and utc formats.
 
 ### Endpoints
