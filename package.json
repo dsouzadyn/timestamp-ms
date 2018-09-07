@@ -1,0 +1,23 @@
+{
+  "name": "timestamp-ms",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Dylan Dsouza",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^17.5.4",
+    "joi": "^13.6.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^5.5.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "inject-then": "^2.0.9",
+    "mocha": "^5.2.0"
+  }
+}
