@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dsouzadyn/timestamp-ms"
+  },
   "author": "Dylan Dsouza",
   "license": "MIT",
   "dependencies": {
