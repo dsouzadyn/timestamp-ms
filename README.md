@@ -1,6 +1,12 @@
 # timestamp-ms
 A timestamp microservice which takes a valid date or javascript timestamp and returns the unix and utc formats.
 
+### Endpoints
+```
+GET /api/timestamp
+GET /api/timestamp/<iso_date>
+GET /api/timestamp/<javascript_timestamp>
+```
 ### Install dependencies
 ```
 $ npm install
